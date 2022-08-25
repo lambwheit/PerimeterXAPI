@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/6PERRYgCUy3VAoibug0ks9Q6qgAcwEMi1xZzWmd8j4=",
+  "Source": "PerimeterXAPI",
+  "BasePath": "_content/PerimeterXAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
